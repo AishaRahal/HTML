@@ -1,2 +1,4 @@
-# HTML
-### HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado para crear páginas web. Define la estructura de una página web mediante el uso de etiquetas o "elementos" como <h1>, <p>, <a>, y <div>. Cada elemento tiene un propósito específico, como definir títulos, párrafos, enlaces o contenedores de contenido. HTML trabaja junto con CSS (para el diseño) y JavaScript (para la interactividad) para crear páginas web completas y dinámicas.
+#Prompt
+##como hablarle a un modelo 
+
+[] Un prompt es lo que le decis al modelo, puede ser una pregunta, una instruccion, contexto, datos o todo junto.
